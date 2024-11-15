@@ -1,0 +1,19 @@
+/* Block level element */
+h1{
+    background-color: beige;
+    border: 2px solid green;
+}
+h2{
+    display: inline;
+    border: 2px solid aqua;
+}
+.Heading1{
+    border: 2PX solid black;
+    margin: 20px;
+    text-align: center;
+    background-color: red;
+    padding: 30px 15px 30px 15px;
+}
+.amit{
+    border-style: none;
+}

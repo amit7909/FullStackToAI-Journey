@@ -1,0 +1,15 @@
+*{
+    background-color: aqua;
+    text-align: center;
+}
+h1{
+    color: yellow
+}
+.design{
+    color: rebeccapurple;
+    border: solid green;
+}
+#style{
+    color: pink;
+    border-bottom: solid;
+}
