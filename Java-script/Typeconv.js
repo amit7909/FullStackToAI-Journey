@@ -36,6 +36,7 @@ let gameCounter = '100';
 gameCounter++;
 ++gameCounter;
 console.log(gameCounter);
+//Some Exception cases on Java-Script Type Conversion
 
 
 

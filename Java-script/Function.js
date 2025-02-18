@@ -35,3 +35,13 @@ function addTwoNumber(num1,num2){
     
 }
 addTwoNumber(5,5)
+
+//function are the first citizens.
+//traditionsal  way of function
+function SayBaby(){
+    console.log("Hii Baby");
+}
+//Function expression 
+const SayDoll= function(){
+    console.log("HII DOLL");
+}
